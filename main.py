@@ -3,7 +3,7 @@ from collections import defaultdict
 from statistics import median
 
 app = Flask(__name__)
-
+print("VERSAO NOVA DA API")
 # ==========================================
 # FUNÇÃO PARA REMOVER OUTLIERS (IQR)
 # ==========================================
